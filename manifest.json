@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.ClientProviderBuilder.html",
-          "hash": "2CwDbuMEQIAnpQnzBT/0Rg=="
+          "hash": "auB5X9txENTR+aQiAwRRnw=="
         }
       },
       "is_incremental": false,
@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.Compression.ICompressor.html",
-          "hash": "+dYOX85XD4DOjODHbpKbYw=="
+          "hash": "nGF9RBFY9cL220WG/ymMCg=="
         }
       },
       "is_incremental": false,
@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.Connection.ClientWrapper.html",
-          "hash": "nNdAoeQREiqLYLMu9GJGmw=="
+          "hash": "9Gvf4j9bM5SM9PyehNhY+w=="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.Connection.ConnectionConfiguration.html",
-          "hash": "BlHC5atYXwdXJoV15NdXWw=="
+          "hash": "sfxIQsWExVs/fmzVVR+JXA=="
         }
       },
       "is_incremental": false,
@@ -78,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.Connection.ConnectionContext.html",
-          "hash": "pJLJIZaiETgM3vL2rZz4Bw=="
+          "hash": "emTOJdVKf0pQEHk7K7/tLg=="
         }
       },
       "is_incremental": false,
@@ -90,7 +90,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.Connection.Credentials.html",
-          "hash": "RFlIqeWTwvhIs28iXlWZ2Q=="
+          "hash": "tQ2Ghl31H+cmtnJKYGQYvg=="
         }
       },
       "is_incremental": false,
@@ -126,7 +126,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.Connection.IConnectionBuilderNeedingContext.html",
-          "hash": "HHhi27MU5O/HF6UAzoYOdw=="
+          "hash": "1fTsP8zh0JxH6KO9lzmKCg=="
         }
       },
       "is_incremental": false,
@@ -138,7 +138,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.Connection.IConnectionBuilderNeedingCredentials.html",
-          "hash": "z4Oh2abFxa7I3px9WWbZcA=="
+          "hash": "+QFMvh2wIUG3MhAipJQyqQ=="
         }
       },
       "is_incremental": false,
@@ -222,7 +222,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.DataContext.html",
-          "hash": "V4zY7OyOqjj1AOS03Z3AYw=="
+          "hash": "3AKwdEn0ULdUKtdofgjysg=="
         }
       },
       "is_incremental": false,
@@ -234,7 +234,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Exceptions.BinTypeMismatchException.html",
-          "hash": "tB28ApN2QlhCEtaSyvMANA=="
+          "hash": "5QQSqVDun4gq1WjvZ1mGYA=="
         }
       },
       "is_incremental": false,
@@ -246,7 +246,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Exceptions.ConfigurationException.html",
-          "hash": "zU90S7D371Oog3XRVHNyjg=="
+          "hash": "CWFG4Mv8MIGj+Tm9YPTY9g=="
         }
       },
       "is_incremental": false,
@@ -258,7 +258,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Exceptions.DeserializationException.html",
-          "hash": "Q+/AM3h6Qp+6Waq+EP5K3A=="
+          "hash": "3JicK0aW7jjAXBZSwM7DSw=="
         }
       },
       "is_incremental": false,
@@ -270,7 +270,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Exceptions.IndexedOperationFailedException.html",
-          "hash": "Z3Uer5TVdJ0QLyXqK84kTg=="
+          "hash": "KGmU/qG/y6P+vl9GdXlxrw=="
         }
       },
       "is_incremental": false,
@@ -282,7 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Exceptions.KeyAlreadyExistsException.html",
-          "hash": "S5UojPxZ0vy4UDCe7fn2bg=="
+          "hash": "jjGzXVv35MUvpRGrhReflQ=="
         }
       },
       "is_incremental": false,
@@ -294,7 +294,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Exceptions.OperationFailedException.html",
-          "hash": "W84oZ/dutZgkK21EsFpn9Q=="
+          "hash": "l0iYocRH8mlRjM80yGABPA=="
         }
       },
       "is_incremental": false,
@@ -306,7 +306,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Exceptions.RecordNotFoundException.html",
-          "hash": "GxOZGNMh96f80TmU2Gah7A=="
+          "hash": "LueHIanjBnar1hDhUWpnqg=="
         }
       },
       "is_incremental": false,
@@ -318,7 +318,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Exceptions.UnableToConnectException.html",
-          "hash": "2uVoeFSL/4C9pFgH7mtr3A=="
+          "hash": "2JyXi+xDKbgAmbRb5uxs9w=="
         }
       },
       "is_incremental": false,
@@ -330,7 +330,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Exceptions.UnexpectedDataFormatException.html",
-          "hash": "RAR6w75AbbEFFv6GLJlqkQ=="
+          "hash": "kfxF1Ww4avtByAJuM1NFtA=="
         }
       },
       "is_incremental": false,
@@ -354,7 +354,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.General.IKeyOperator.html",
-          "hash": "2cpvalHW+DrLEJcKdA3F6w=="
+          "hash": "UzGRi0dk13KsTp/n25BZuw=="
         }
       },
       "is_incremental": false,
@@ -378,7 +378,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.General.ISetScanner-1.html",
-          "hash": "bKaxDuX5MFS4L9wpzWBJQQ=="
+          "hash": "Je7jTs/MnQ+hS+hvFu0CIw=="
         }
       },
       "is_incremental": false,
@@ -390,7 +390,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.General.ISetScanner-2.html",
-          "hash": "ej6MDQ+dwISCz2rkygCgIw=="
+          "hash": "ZvVTWTRWS6JqJ9FhDj8lHQ=="
         }
       },
       "is_incremental": false,
@@ -402,7 +402,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.General.ISetScanner-3.html",
-          "hash": "7JfHCKjabdRmC9Q2sftKRg=="
+          "hash": "ULTbZ0RChL7C7JW24TDWqw=="
         }
       },
       "is_incremental": false,
@@ -414,7 +414,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.General.ISetScanner.html",
-          "hash": "5GfCEjTSt8hDfk/E0Mo77Q=="
+          "hash": "ek1AtQMVWH2lBBnL79zucA=="
         }
       },
       "is_incremental": false,
@@ -426,7 +426,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.General.ISetScannerBuilder.html",
-          "hash": "JE1kANGUizIL7gZdor22Zg=="
+          "hash": "48DYjVbt/aXt7r2xjGhd/Q=="
         }
       },
       "is_incremental": false,
@@ -462,7 +462,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.General.KeyExistence.html",
-          "hash": "yx1vqa6g4DM+WF3cepiLPA=="
+          "hash": "GkDQjPoMq3SB9tSrFeeFyg=="
         }
       },
       "is_incremental": false,
@@ -474,7 +474,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.General.ScanContext.html",
-          "hash": "jiydWtT+eiOHOXhc+3EyNg=="
+          "hash": "jdWJ/jpCyX8uArsIDwqsVQ=="
         }
       },
       "is_incremental": false,
@@ -486,7 +486,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.General.SetScannerBuilder.html",
-          "hash": "DtZt3O5hAERI7Cb7wsMrdg=="
+          "hash": "jligT8T01dJJiABxxz419g=="
         }
       },
       "is_incremental": false,
@@ -510,7 +510,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.InfoConfiguration.html",
-          "hash": "hfuvW8BZ+7023/4SuI0MmQ=="
+          "hash": "5LarJ/2J+AcR59aifQJRtA=="
         }
       },
       "is_incremental": false,
@@ -522,7 +522,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.KeyValueAccess.IKeyValueStore-1.html",
-          "hash": "CMrSKX5t6mfaXVACqVHHbQ=="
+          "hash": "otzA/dcpzhY3vdwjGDGoZA=="
         }
       },
       "is_incremental": false,
@@ -534,7 +534,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.KeyValueAccess.IKeyValueStore-2.html",
-          "hash": "U/joOu1joOFtYmhNef1RSQ=="
+          "hash": "yJQgRABCDMeUSUuNFe+aRQ=="
         }
       },
       "is_incremental": false,
@@ -546,7 +546,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.KeyValueAccess.IKeyValueStore-3.html",
-          "hash": "PK98H6TXFkE51D5Q/pJ9PA=="
+          "hash": "sX+pwEdivHBpuQRNcVWFQg=="
         }
       },
       "is_incremental": false,
@@ -558,7 +558,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.KeyValueAccess.IKeyValueStore.html",
-          "hash": "QO0pUTZiEpfW5OVxBhXjHA=="
+          "hash": "T2692wfTMyAF2TXRYooXjg=="
         }
       },
       "is_incremental": false,
@@ -570,7 +570,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.KeyValueAccess.IKeyValueStoreBuilder.html",
-          "hash": "ZYjkCmo/tsIH+2nvV4gvdw=="
+          "hash": "WRHXmApDwU2QuntGMv2oSA=="
         }
       },
       "is_incremental": false,
@@ -582,7 +582,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.KeyValueAccess.KeyValueStore-1.html",
-          "hash": "aK0PtNzRI/ioc+vYAef/nA=="
+          "hash": "OkCciiUBlQeWO/esoLHUWg=="
         }
       },
       "is_incremental": false,
@@ -594,7 +594,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.KeyValueAccess.KeyValueStore-2.html",
-          "hash": "UhGlLvA8TjFVguHKGl6azw=="
+          "hash": "P/RF22IgvpWmjqyrUOK1Tg=="
         }
       },
       "is_incremental": false,
@@ -606,7 +606,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.KeyValueAccess.KeyValueStore-3.html",
-          "hash": "AlUXhn7WR8/HamrnKH7ozA=="
+          "hash": "4fAwzgg0//dxK04dh0nacA=="
         }
       },
       "is_incremental": false,
@@ -618,7 +618,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.KeyValueAccess.KeyValueStoreContext.html",
-          "hash": "SR5y2CKz827XcsoDB0/DFQ=="
+          "hash": "+iVex1JK/I6nFpg0PAoBlg=="
         }
       },
       "is_incremental": false,
@@ -642,7 +642,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.ListAccess.IList-1.html",
-          "hash": "xRFdudlQ6sW+dTxvNEIUpw=="
+          "hash": "3ySrYUTjik4yQnetudOGWw=="
         }
       },
       "is_incremental": false,
@@ -654,7 +654,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.ListAccess.IListBuilder.html",
-          "hash": "3G01RzuItORXl1BnF7FnpQ=="
+          "hash": "vyfhW/C7lGQLKktOD+TYww=="
         }
       },
       "is_incremental": false,
@@ -666,7 +666,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.ListAccess.IListOperator-1.html",
-          "hash": "W2/lwqysWtpCgBY2a0qJVg=="
+          "hash": "/bYIHACKZFQ5CdrqS/x95Q=="
         }
       },
       "is_incremental": false,
@@ -678,7 +678,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.ListAccess.ListContext.html",
-          "hash": "DqyEcQ2omKnODLzCt1TuaQ=="
+          "hash": "QaDNFpzxuWBU/mND5wH7Xw=="
         }
       },
       "is_incremental": false,
@@ -702,7 +702,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.ListConfiguration.html",
-          "hash": "k5RxKKHMYITIozWfu+4rLA=="
+          "hash": "KnKI1cAKsgn9Emr9vApsHw=="
         }
       },
       "is_incremental": false,
@@ -714,7 +714,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Operations.IBlobOperationBuilder.html",
-          "hash": "N4R1+V5WPYCDDbCXFE3fQQ=="
+          "hash": "ro32hCHugIQEzGHzw0o2fA=="
         }
       },
       "is_incremental": false,
@@ -726,7 +726,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Operations.IListOperationBuilder.html",
-          "hash": "K08er6Rn1Qj5XovrBjZwTw=="
+          "hash": "e5W2K+KCu51luZ7HTwvEdQ=="
         }
       },
       "is_incremental": false,
@@ -750,7 +750,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Operations.IOperator.html",
-          "hash": "o3jpu6+LMoQVE+wrBFlBQA=="
+          "hash": "3UiOb9NVTaHl60nHoitWqg=="
         }
       },
       "is_incremental": false,
@@ -774,7 +774,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Operations.ISetScanOperator.html",
-          "hash": "JIFqzqjoUJ6s8soYHgQlaA=="
+          "hash": "YLFUF8ycdYsOdI2ED1bwvA=="
         }
       },
       "is_incremental": false,
@@ -798,7 +798,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Policies.ListConfigurationToListPolicyMapper.html",
-          "hash": "f7yrdJAWLTcAarKzhwK4QQ=="
+          "hash": "/KrwnwjDewK6iR0pd0lO4A=="
         }
       },
       "is_incremental": false,
@@ -810,7 +810,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Policies.ReadConfigurationToBatchPolicyMapper.html",
-          "hash": "bf/k3PnTksI1BetXKLtyYA=="
+          "hash": "6Xo43khCrLA5KyLehtuYTw=="
         }
       },
       "is_incremental": false,
@@ -822,7 +822,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Policies.ScanConfigurationToScanPolicyMapper.html",
-          "hash": "R1wSeGt+YyaYNVZzku4uDQ=="
+          "hash": "2NLLT32sko5yQG05zZUO0w=="
         }
       },
       "is_incremental": false,
@@ -834,7 +834,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Policies.WriteConfigurationToWritePolicyMapper.html",
-          "hash": "AC1+vqtN9nvmGXxVjDt0gQ=="
+          "hash": "rKGGupnAUcDRoJkMCWrsJA=="
         }
       },
       "is_incremental": false,
@@ -858,7 +858,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.ReadConfiguration.html",
-          "hash": "w5sx/y5dB47f01mydmZ7CA=="
+          "hash": "uCoRSkmQgUntMOghMk4sTQ=="
         }
       },
       "is_incremental": false,
@@ -870,7 +870,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.ScanConfiguration.html",
-          "hash": "yF/bVr2LBj/jZHCN6Os5yQ=="
+          "hash": "i85f5ZN3292mk27fHpnOJg=="
         }
       },
       "is_incremental": false,
@@ -894,7 +894,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.WriteConfiguration.html",
-          "hash": "sumjMF0Fe1vl9NyLtIfyZA=="
+          "hash": "UvhP2MnA7GZ7rrOO3od3Bw=="
         }
       },
       "is_incremental": false,
@@ -978,7 +978,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.KeyOperatorBuilder.html",
-          "hash": "SCTsA9inE1G4DVqueN/iHQ=="
+          "hash": "Isrx44e2x0WicgY35OxUlg=="
         }
       },
       "is_incremental": false,
@@ -990,7 +990,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.KeyValueStoreBuilder.html",
-          "hash": "3uHDQxhJs2ZDtN0jAtHECA=="
+          "hash": "W/mzQiqeNFNJFqSuFDP3ew=="
         }
       },
       "is_incremental": false,
@@ -1002,7 +1002,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.ListBuilder.html",
-          "hash": "ZaVcWAA5le7QhmSe/Z59ew=="
+          "hash": "XAlR7qoFVl9C5P5UNa/v0Q=="
         }
       },
       "is_incremental": false,
@@ -1014,7 +1014,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.OperatorBuilder.html",
-          "hash": "f7zuG/7WxINyo2q37n/XrQ=="
+          "hash": "/cOYzd1GTKPTZ26O3r+b7A=="
         }
       },
       "is_incremental": false,
@@ -1026,7 +1026,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.Plugins.IKeyValueStorePlugin.html",
-          "hash": "S+DOl36oXnEcoYEmWwQfwQ=="
+          "hash": "qFrYGeVdSo94PRBhgB5+DQ=="
         }
       },
       "is_incremental": false,
@@ -1050,7 +1050,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.Serialization.ISerializer.html",
-          "hash": "icgab3Q2VBt2iQkKDSETJA=="
+          "hash": "sQfYDxjWMPDgXqCTJoo+6w=="
         }
       },
       "is_incremental": false,
@@ -1062,7 +1062,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.Serialization.SerializationException.html",
-          "hash": "ijS/TLgHfyDjIJlMqPC61w=="
+          "hash": "lFTG+VIVzglEtFh4Rpup+w=="
         }
       },
       "is_incremental": false,
@@ -1086,7 +1086,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.SetTruncatorBuilder.html",
-          "hash": "wFspG3tM9I+JJMfGzn2fiA=="
+          "hash": "NjP9jjjaMQYzMMvmNrVqgA=="
         }
       },
       "is_incremental": false,
@@ -1098,7 +1098,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.Utilities.CollectionExtensions.html",
-          "hash": "rX6BlzNPhYW56S2qClyHPg=="
+          "hash": "mLuW+KkTXKr0VDqAhDRInA=="
         }
       },
       "is_incremental": false,
@@ -1122,7 +1122,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.Utilities.ReadModifyWritePolicy.html",
-          "hash": "UrNPt7+J3TGKuMsCngfFqw=="
+          "hash": "taEhOAoOZn7QbdW3hxNlRA=="
         }
       },
       "is_incremental": false,
@@ -1134,7 +1134,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.Utilities.ReadModifyWritePolicyFactory.html",
-          "hash": "X/G9vvv+UJKZp2qo32qR6g=="
+          "hash": "2xO3JP9zt3NPJN9hjGP34w=="
         }
       },
       "is_incremental": false,
