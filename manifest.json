@@ -230,6 +230,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "../site/yml/api/AeroSharp.DataAccess.Exceptions.BinNotFoundException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AeroSharp.DataAccess.Exceptions.BinNotFoundException.html",
+          "hash": "IKywRuCn01MQThNFl5QBzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "../site/yml/api/AeroSharp.DataAccess.Exceptions.BinTypeMismatchException.yml",
       "output": {
         ".html": {
@@ -290,6 +302,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "../site/yml/api/AeroSharp.DataAccess.Exceptions.MapEntryAlreadyExistsException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AeroSharp.DataAccess.Exceptions.MapEntryAlreadyExistsException.html",
+          "hash": "C6zOs/AfYQMsWkWDeUVOOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../site/yml/api/AeroSharp.DataAccess.Exceptions.MapEntryNotFoundException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AeroSharp.DataAccess.Exceptions.MapEntryNotFoundException.html",
+          "hash": "ho9bX81GsoOurqjxrHjx7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "../site/yml/api/AeroSharp.DataAccess.Exceptions.OperationFailedException.yml",
       "output": {
         ".html": {
@@ -338,11 +374,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "../site/yml/api/AeroSharp.DataAccess.Exceptions.UnsupportedKeyTypeException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AeroSharp.DataAccess.Exceptions.UnsupportedKeyTypeException.html",
+          "hash": "U06AOnqw1fitr0MxS48ErA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "../site/yml/api/AeroSharp.DataAccess.Exceptions.yml",
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.Exceptions.html",
-          "hash": "rRqditTSm2yMYO+ENU9iMw=="
+          "hash": "6Mh77jWIlFY45QGgvZ9zFQ=="
         }
       },
       "is_incremental": false,
@@ -710,6 +758,78 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "../site/yml/api/AeroSharp.DataAccess.MapAccess.IMap-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AeroSharp.DataAccess.MapAccess.IMap-2.html",
+          "hash": "xX5waxHCJpbnfExzbdnxjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../site/yml/api/AeroSharp.DataAccess.MapAccess.IMapBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AeroSharp.DataAccess.MapAccess.IMapBuilder.html",
+          "hash": "cV4FmgP39vZCgT1Tv0HHiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../site/yml/api/AeroSharp.DataAccess.MapAccess.IMapOperator-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AeroSharp.DataAccess.MapAccess.IMapOperator-2.html",
+          "hash": "RlM/71I5qUByD5bB9Z4Jyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../site/yml/api/AeroSharp.DataAccess.MapAccess.MapContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AeroSharp.DataAccess.MapAccess.MapContext.html",
+          "hash": "v5wpyAsw/V41V8DRbirVCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../site/yml/api/AeroSharp.DataAccess.MapAccess.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AeroSharp.DataAccess.MapAccess.html",
+          "hash": "qveBC2Iues+cJFH4JgPFMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../site/yml/api/AeroSharp.DataAccess.MapConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AeroSharp.DataAccess.MapConfiguration.html",
+          "hash": "8thYlMML5bq29AbQEGYcjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "../site/yml/api/AeroSharp.DataAccess.Operations.IBlobOperationBuilder.yml",
       "output": {
         ".html": {
@@ -906,7 +1026,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.DataAccess.html",
-          "hash": "gLx89w17a0DNTfuvNNGqMQ=="
+          "hash": "1IeVfQnZuI7K6PWLEa0jwQ=="
         }
       },
       "is_incremental": false,
@@ -1003,6 +1123,18 @@
         ".html": {
           "relative_path": "api/AeroSharp.ListBuilder.html",
           "hash": "Ff8SioGbJN0T6PVtLuk/4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../site/yml/api/AeroSharp.MapBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AeroSharp.MapBuilder.html",
+          "hash": "EebaDbSE2ecBTUhCTass+A=="
         }
       },
       "is_incremental": false,
@@ -1158,7 +1290,7 @@
       "output": {
         ".html": {
           "relative_path": "api/AeroSharp.html",
-          "hash": "bvIdWttkNtZoUoXxkjlttw=="
+          "hash": "O0A7zABQWg78Ob6mbapVPA=="
         }
       },
       "is_incremental": false,
@@ -1170,7 +1302,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "mfXnSpqe4b2Q16KnO/Y4Lw=="
+          "hash": "Ly5rrF91pLx/UB1e5vzNCw=="
         }
       },
       "is_incremental": false,
@@ -1224,7 +1356,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 96,
+          "total_file_count": 107,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
